@@ -44,7 +44,7 @@ ul#buttons li + li {
 	margin-left: 20px;
 }
 a {
-	color: #bfaa84;
+	color: #ffaa84;
 	text-decoration: none;
 }
 a:hover {
@@ -53,7 +53,7 @@ a:hover {
 .source {
 	width: 405px;
 	margin: 0 auto;
-	background: #bfaa84;
+	background: #ffaa84;
 	color: #a7abb1;
 	font-weight: bold;
 	display: block;
