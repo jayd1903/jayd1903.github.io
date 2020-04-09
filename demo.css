@@ -2,23 +2,23 @@
 @import url(fontawesome-all.min.css);
 @keyframes bgcolor {
     0% {
-        background: #45a3e5
+        background: #bfaa84
     }
 
     30% {
-        background: #66bf39
+        background: #f2eada
     }
 
     60% {
-        background: #eb670f
+        background: #daf0f2
     }
 
     90% {
-        background: #f35
+        background: ##daf2da
     }
 
     100% {
-        background: #864cbf
+        background: #f2dfda
     }
 }
 body {
