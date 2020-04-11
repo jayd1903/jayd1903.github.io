@@ -19,6 +19,8 @@
 		<li class="seperator">:</li>
 		<li><span class="seconds">00</span></li>
 	</ul>
+	<a href="javascript:show(div1)">click this.</a>
+	<div id="div1" style="display: none;">great! you clicked it!</div>
 	<p>relax. charge your batteries.</p>
 	<i class="fa fa-battery-three-quarters"></i>
 	<script type="text/javascript">
@@ -30,6 +32,9 @@
 		}, function () {
 			alert('Done!');
 		});
+		function show(obj){
+		    document.getElementById(obj.id).style.display = 'block';
+		}
 	</script>
 	
 </body>
